@@ -37,5 +37,3 @@ ASUS Vivobook Go 14.0" FHD Laptop (Intel Celeron N4500, 4GB RAM, 128GB eMMC, Win
 0
 
 $219.00
-
-result: should get description , part numer/sku, qty, price.
