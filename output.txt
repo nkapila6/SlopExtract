@@ -1,0 +1,57 @@
+[
+    {
+        "sku": "21NXCTO1WW",
+        "model": "Lenovo ThinkPad X1 Carbon Gen13 Aura Edition 14\" WUXGA Touchscreen Laptop (Intel Core Ultra 7 255U, 32GB RAM, 1TB SSD, Windows 11 Pro) - Black (21NXCTO1WW)",
+        "processor": "Intel Core Ultra 7 255U",
+        "ram": "32GB RAM",
+        "storage": "1TB SSD",
+        "os": "Windows 11 Pro",
+        "finish": "Black",
+        "unit_price": 1699.0,
+        "quantity": 129
+    },
+    {
+        "sku": "LAC16250-7568BLU-PUS",
+        "model": "Alienware 16 Aurora 16\" WQXGA Gaming Laptop",
+        "processor": "Intel Core 7 240H",
+        "ram": "32GB RAM",
+        "storage": "1TB SSD",
+        "os": "Windows 11",
+        "finish": "Blue",
+        "unit_price": 1399.99,
+        "quantity": 128
+    },
+    {
+        "sku": "82N4004NUS",
+        "model": "Lenovo Ideapad 3i Chromebook 15.6\" FHD Laptop",
+        "processor": "Intel Celeron N4500",
+        "ram": "4GB RAM",
+        "storage": "64GB eMMC",
+        "os": "Chrome OS",
+        "finish": "Arctic Grey",
+        "unit_price": 205.0,
+        "quantity": 117
+    },
+    {
+        "sku": "NX.JKBAA.001",
+        "model": "Acer Chromebook Plus 14\" WUXGA TouchScreen Laptop",
+        "processor": "Intel Core N355",
+        "ram": "8GB RAM",
+        "storage": "512GB SSD",
+        "os": "Chrome OS",
+        "finish": "Gray",
+        "unit_price": 299.99,
+        "quantity": 99
+    },
+    {
+        "sku": "E410KA-CL4128",
+        "model": "ASUS Vivobook Go 14.0\" FHD Laptop (Intel Celeron N4500, 4GB RAM, 128GB eMMC, Windows 11 S Mode) - Star Black",
+        "processor": "Intel Celeron N4500",
+        "ram": "4GB RAM",
+        "storage": "128GB eMMC",
+        "os": "Windows 11 S Mode",
+        "finish": "Star Black",
+        "unit_price": 219.0,
+        "quantity": 87
+    }
+]

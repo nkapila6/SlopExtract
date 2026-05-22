@@ -18,5 +18,5 @@ def txtloader(path: str) -> list:
     return products
 
 
-print(txtloader("input.txt")[0])
-print(len(txtloader("input.txt")))
+# print(txtloader("input.txt")[0])
+# print(len(txtloader("input.txt")))
