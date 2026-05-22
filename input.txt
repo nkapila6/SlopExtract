@@ -1,0 +1,41 @@
+Lenovo ThinkPad X1 Carbon Gen13 Aura Edition 14" WUXGA Touchscreen Laptop (Intel Core Ultra 7 255U, 32GB RAM, 1TB SSD, Windows 11 Pro) - Black (21NXCTO1WW)
+
+129
+
+0
+
+$1699.00
+
+Alienware 16 Aurora 16" WQXGA Gaming Laptop (Intel Core 7 240H, 32GB RAM, 1TB SSD, Windows 11, NVIDIA GeForce RTX 5060) - Blue (LAC16250-7568BLU-PUS)
+
+128
+
+0
+
+$1399.99
+
+Lenovo Ideapad 3i Chromebook 15.6" FHD Laptop (Intel Celeron N4500, 4GB RAM, 64GB eMMC, Chrome OS) - Arctic Grey (82N4004NUS)
+
+117
+
+0
+
+$205.00
+
+Acer Chromebook Plus 14" WUXGA TouchScreen Laptop (Intel Core N355, 8GB RAM, 512GB SSD, Chrome OS) - Gray (NX.JKBAA.001, Certified Refurbished)
+
+99
+
+0
+
+$299.99
+
+ASUS Vivobook Go 14.0" FHD Laptop (Intel Celeron N4500, 4GB RAM, 128GB eMMC, Windows 11 S Mode) - Star Black (E410KA-CL4128)
+
+87
+
+0
+
+$219.00
+
+result: should get description , part numer/sku, qty, price.
